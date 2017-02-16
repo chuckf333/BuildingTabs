@@ -1,0 +1,14 @@
+div.nav-tab {
+  background-color: hotpink;
+  border-style: solid;
+  float: left;
+  height: auto;
+  width: auto;
+}
+a.navigation {
+  text-decoration: none;
+  color: turquoise;
+}
+div.nav-tab:hover {
+  background-color: deeppink;
+}
